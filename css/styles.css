@@ -10211,8 +10211,8 @@ header.masthead .masthead-heading {
 }
 #portfolio .portfolio-item .portfolio-caption {
   padding: 1.5rem;
-  text-align: center;
-  background-color: #fff;
+  text-align: center; 
+  background-color: #6c757d;
 }
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading {
   font-size: 1.5rem;
